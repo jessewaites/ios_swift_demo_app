@@ -13,13 +13,15 @@ I put this demo together as a way to show interest and at least passing familiar
 ![Simulator Image 2](https://pbs.twimg.com/media/CQ6ie3hU8AABWwL.png)
 
 
-A few thoughts
+A few thoughts and observations...
 -------------
 
-A few things that crossed my mind when building this app.
+Here are a few things that crossed my mind when building this app.
 
 
-> - Really neat to see the MVC implementation.
+> - Really neat to see the MVC implementation on the handset (iPhone) I've used for years.
+
+> - There is no method on an array in Swift that will return a random element of the array, such as aray.sample in Ruby. That seems kind of ridiculous.
 
 > - Building for iOS in Xcode is a hell of a lot of fun.
 
@@ -30,6 +32,10 @@ A few things that crossed my mind when building this app.
 > - Implementing a button that launched the in-app Safari browser was a breeze.
 
 > - There is no mail client in the simulator so hardcoding an "email me" button into the app may work but will throw an error in Xcode.
+
+> - I found layout and autolayout exteremely difficult. I can see that I will need ot put much more time into that.
+
+> - I'm very much a 'looks matter' type of developer and look forward to experimenting with cocoapods and using some of the preexisting UI libraries to make my stuff look really great. I despise an ugly UI anywhere.
 
 > - If I were building an app for, lets say a restaurant, it would be wise to build the menu from an external JSON endpoint, rather than hardcoding everything like meals and prices into the app. This way one could update the menu externally without having to recode the app and go back through the app store submission and review process. This JSON server would probably be great for something like that. https://github.com/typicode/json-server
 
