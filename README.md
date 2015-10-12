@@ -33,7 +33,7 @@ Here are a few things that crossed my mind when building this app.
 
 > - There is no mail client in the simulator so hardcoding an "email me" button into the app may work but will throw an error in Xcode.
 
-> - I found layout and autolayout exteremely difficult. I can see that I will need ot put much more time into that.
+> - I found layout and autolayout exteremely difficult. I can see that I will need to put much more time into that to master it.
 
 > - I'm very much a 'looks matter' type of developer and look forward to experimenting with cocoapods and using some of the preexisting UI libraries to make my stuff look really great. I despise an ugly UI anywhere.
 
