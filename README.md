@@ -2,6 +2,11 @@ Welcome to my Swift iOS Demo App!
 ===================
 
 
+
+https://pbs.twimg.com/media/CRDt1sWWIAEd0TK.png
+
+![Simulator Image](http://pbs.twimg.com/media/CRDt1sWWIAEd0TK.png)
+
 I put this demo together as a way to show interest and perhaps aptitude with Swift / Xcode / iOS Development. This is simply a random fact display app that shows rather benign little facts about me such as the fact that I enjoy eating spaghetti and like to go hiking. 
 
 
